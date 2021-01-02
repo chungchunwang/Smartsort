@@ -1,0 +1,21 @@
+.toolbar{
+    background-color:grey;
+    height:40px;
+    position: relative;
+}
+.home{
+    text-decoration-line: none;
+    color:white;
+    background-color:rgb(106, 236, 171);
+    margin:auto;
+    padding:5px;
+    position:absolute;
+}
+.downloaddata{
+    text-decoration-line: none;
+    color: white;
+    background-color:rgb(106, 236, 171);
+    margin:auto;
+    padding:5px;
+    position: absolute;
+}

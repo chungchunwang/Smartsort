@@ -44,7 +44,7 @@ Set it up as such:
 ![屏幕截图(30)_LI](https://user-images.githubusercontent.com/62127500/103460842-7b877a80-4d54-11eb-886a-6aa05f762c12.jpg)
 * You do not need to do the nodes under entries, they will be added by the API 
 * Change the email to be the one you will "log in with google" with
-2. On the API, make sure to set the post location to the entries of your account + auth key
+2. On the API, make sure to set the post location to the entries of your account + auth key. On the web app, navigate into /src/firebase.js and change the firebase config to yours.
 3. On the server/computer you want to run the API on, navigate into the API folder and call 
 ```
 uvicorn main:app --reload

@@ -1,7 +1,7 @@
 import firebase from 'firebase';
-
+//Swap this out for your own firebase config
 const config = {
-  apiKey: "AIzaSyB5KfK-BP701VpburJJ96ljwVsK1iZvQBY",
+  apiKey: "____________________________________",
   authDomain: "smarttrashcan8000.firebaseapp.com",
   databaseURL: "https://smarttrashcan8000-default-rtdb.firebaseio.com",
   projectId: "smarttrashcan8000",
